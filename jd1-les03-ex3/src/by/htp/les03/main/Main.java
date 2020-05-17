@@ -1,0 +1,93 @@
+package by.htp.les03.main;
+
+import by.htp.les03.logic.Task11;
+import by.htp.les03.logic.Task12;
+import by.htp.les03.logic.Task13;
+import by.htp.les03.logic.Task14;
+import by.htp.les03.logic.Task15;
+import by.htp.les03.logic.Task16;
+import by.htp.les03.logic.Task17;
+import by.htp.les03.logic.Task18;
+import by.htp.les03.logic.Task19;
+import by.htp.les03.logic.Task20;
+import by.htp.les03.logic.Task21;
+import by.htp.les03.logic.Task22;
+import by.htp.les03.logic.Task23;
+import by.htp.les03.logic.Task24;
+import by.htp.les03.logic.Task25;
+import by.htp.les03.logic.Task26;
+import by.htp.les03.logic.Task27;
+import by.htp.les03.logic.Task28;
+import by.htp.les03.logic.Task29;
+import by.htp.les03.logic.Task30;
+import by.htp.les03.logic.Task31;
+import by.htp.les03.logic.Task32;
+import by.htp.les03.logic.Task33;
+import by.htp.les03.logic.Task34;
+import by.htp.les03.logic.Task35;
+import by.htp.les03.logic.Task35_1;
+import by.htp.les03.logic.Task36;
+import by.htp.les03.logic.Task36_1;
+import by.htp.les03.logic.Task37_1;
+import by.htp.les03.logic.Task37_2;
+import by.htp.les03.logic.Task37_3;
+import by.htp.les03.logic.Task37_4;
+import by.htp.les03.logic.Task37_5;
+import by.htp.les03.logic.Task37_6;
+import by.htp.les03.logic.Task37_7;
+import by.htp.les03.logic.Task37_8;
+import by.htp.les03.logic.Task37_9;
+import by.htp.les03.logic.Task38a;
+import by.htp.les03.logic.Task38c;
+import by.htp.les03.logic.Task38b;
+import by.htp.les03.logic.Task39;
+import by.htp.les03.logic.Task40;
+
+public class Main {
+
+	public static void main(String[] args) {
+		// Task11.task();
+		// Task12.task();
+		// Task13.task();
+		// Task14.task();
+		// Task15.task();
+		// Task16.task();
+		// Task17.task();
+		// Task18.task();
+		// Task19.task();
+		// Task20.task();
+		// Task21.task();
+		// Task22.task();
+		// Task23.task();
+		// Task24.task();
+		// Task25.task();
+		// Task26.task();
+		// Task27.task();
+		// Task28.task();
+		// Task29.task();
+		// Task30.task();
+		// Task31.task();
+		// Task32.task();
+		// Task33.task();
+		// Task34.task();
+		// Task35.task();
+		// Task35_1.task();
+		// Task36.task();
+		// Task36_1.task();
+		// Task37_1.task();
+		// Task37_2.task();
+		// Task37_3.task();
+		// Task37_4.task();
+		// Task37_5.task();
+		// Task37_6.task();
+		// Task37_7.task();
+		// Task37_8.task();
+		// Task37_9.task();
+		// Task38a.task();
+		// Task38b.task();
+		// Task38c.task();
+		// Task39.task();
+		// Task40.task();
+	}
+
+}
